@@ -1,0 +1,12 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+header{
+    background-color: aqua;
+    font-size: x-large;
+}
+#About{
+    color: greenyellow;
+}
+
